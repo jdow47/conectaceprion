@@ -10,7 +10,7 @@
 🔰🔴𝗖𝗟𝗔𝗥𝗢  OFFLINE 🔴\n
 •••••••••••••••••••••••••••••••••••••••••••••••\n
    𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso  a outra pare de funcionar\n 🔸𓂀 𝕊𝔼ℝ𝕍𝕀𝔻𝕆ℝ 𝟘𝟙 ℙℝ𝕀ℕℂ𝕀ℙ𝔸𝕃 𓂀🔸",
-  "UrlUpdate": "https://github.com/jdow47/conectaceprion/blob/1f8ba2a21c8a44ec8d4f48ca002da7b9e3f378eb/att%20conecta%205g.txt",
+  "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
     "videoUrl": null,
     "logoonline": "",
