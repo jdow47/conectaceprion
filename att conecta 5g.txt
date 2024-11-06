@@ -14,7 +14,7 @@
   "Sms": "https://bitbin.it/ukTsID96/raw/",
     "videoUrl": null,
     "logoonline": "",
-    "fundoonline": "https://telegra.ph/file/45e90d03c97a350f211bd.jpg",
+    "fundoonline": "https://i.ibb.co/0ZWPfjF/2770f4b1-6ab9-4726-ae02-31cdae00f0e6.jpg",
     "fundoDoLogOnline": "https://telegra.ph/file/d338567220afa7e5cf75e.jpg",
     "EmailFeedback": "https://ceprion.jtvplay.com.br/renovar.php",
     "UrlContato": "https://api.whatsapp.com/send?phone=5547991592447",
