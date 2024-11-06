@@ -1,5 +1,5 @@
 {
-  "Version": "8.8.42.",
+  "Version": "0.0.1.",
   "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Versão: 2.5\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
@@ -10,7 +10,7 @@
 🔰🔴𝗖𝗟𝗔𝗥𝗢  OFFLINE 🔴\n
 •••••••••••••••••••••••••••••••••••••••••••••••\n
    𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso  a outra pare de funcionar\n 🔸𓂀 𝕊𝔼ℝ𝕍𝕀𝔻𝕆ℝ 𝟘𝟙 ℙℝ𝕀ℕℂ𝕀ℙ𝔸𝕃 𓂀🔸",
-  "UrlUpdate": "https://bitbin.it/qH02yYxI/raw/",
+  "UrlUpdate": "https://github.com/jdow47/conectaceprion.git",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
     "videoUrl": null,
     "logoonline": "",
