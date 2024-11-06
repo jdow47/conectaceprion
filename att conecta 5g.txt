@@ -1,0 +1,1551 @@
+{
+  "Version": "8.8.42.",
+  "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
+    🆚 Versão: 2.5\n
+•••••••••••••••••••••••••••••••••••••••••••••\n
+  🔰Funcionando🔰\n
+🔰🟡𝗢𝗶     OFFLINE 🟢\n
+🔰🔵𝗧𝗜𝗠    ONLINE 🟢\n
+🔰🟣𝗩𝗜𝗩𝗢   ONLINE 🟢\n
+🔰🔴𝗖𝗟𝗔𝗥𝗢  OFFLINE 🔴\n
+•••••••••••••••••••••••••••••••••••••••••••••••\n
+   𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso  a outra pare de funcionar\n 🔸𓂀 𝕊𝔼ℝ𝕍𝕀𝔻𝕆ℝ 𝟘𝟙 ℙℝ𝕀ℕℂ𝕀ℙ𝔸𝕃 𓂀🔸",
+  "UrlUpdate": "https://bitbin.it/qH02yYxI/raw/",
+  "Sms": "https://bitbin.it/ukTsID96/raw/",
+    "videoUrl": null,
+    "logoonline": "",
+    "fundoonline": "https://telegra.ph/file/45e90d03c97a350f211bd.jpg",
+    "fundoDoLogOnline": "https://telegra.ph/file/d338567220afa7e5cf75e.jpg",
+    "EmailFeedback": "https://ceprion.jtvplay.com.br/renovar.php",
+    "UrlContato": "https://api.whatsapp.com/send?phone=5547991592447",
+    "UrlTermos": "http://speed.cloudflare.com",
+    "CheckUser": "true",
+    "UdpPort": "7300;7400;7200;7100",
+    "Servers": [
+        {
+            "Name": "SERVIDOR CEPRION",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "ceprion.laviacessorios.shop",
+            "CheckUser": "http://152.67.54.48:5454/checkUser",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+        {
+            "Name": "CEPRION",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "ceprion.laviacessorios.shop",
+            "CheckUser": "http://152.67.54.48:5454/checkUser",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        }
+    ],
+    "Networks": [
+     {                         
+      "Name": "SERVIDOR",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "true",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+      {  
+       "Name": "⚡𝗘𝗦𝗖𝗢𝗟𝗛𝗔 𝗦𝗨𝗔 𝗢𝗣𝗘𝗥𝗔𝗗𝗢𝗥𝗔⚡",
+          "FLAG": "",
+          "Payload": "",
+          "SNI": "",
+          "TlsIP": "",
+          "ProxyIP": "",
+          "ProxyPort": "",
+          "Info": ""
+        },
+    {    
+      "Name": "🌐🌐🌐===𝘾𝙊𝙉𝙀𝙓𝙊̃𝙀𝙎 𝙑𝙄𝙑𝙊🟣⬇️===🌐🌐🌐",
+      "FLAG": "",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
+},
+    {
+      "Name": "🟣VIVO EASY GB [1]",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "api.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+    {  
+      "Name": "🟣VIVO EASY GB [1]",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.64.150.8",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+{
+"Name": "🟣VIVO EASY GB [3]",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "assine.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+{
+"Name": "🔴🔴 VIVO PLANO CONTROLE 00🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "controle.grupospeedomega.site",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 01🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.18.27.160",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 02🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.26.5.32",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 03🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "GET / HTTP/1.1[crlf]Host: top.eliteneteruel.shop[crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.17.70.206",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 04🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 05🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.17.70.206",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 06🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "Payload: ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+       {
+            "Name": "🔴🔴VIVO CONTROLE/EASY 07🔴🔴",
+            "FLAG": "vivo",
+            "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.6.80",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔴🔴VIVO CONTROLE/EASY 08🔴🔴",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "legado.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+    {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 09🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "blog.deezer.com",
+"ProxyPort": "80",
+"Info": "Proxy"
+},  
+{
+"Name": "🔴🔴 VIVO PLANO CONTROLE 10🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.26.5.32",
+"ProxyPort": "80",
+"Info": "Proxy"
+},  
+{
+      "Name": "🟣VIVO CONTROLE [1]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "141.193.213.10",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [2]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "141.193.213.11",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [3]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.18.210",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [4]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.19.210",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [5]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.22.136",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [6]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.23.136",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [7]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.70.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [8]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.71.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [9]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.72.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [10]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.73.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [11]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.74.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "🟣VIVO CONTROLE [12]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.4.32",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+ },
+ {
+      "Name": "🟣VIVO CONTROLE [13]",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.5.32",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     },
+     {
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 Pré 01",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.27.160",
+      "ProxyPort": "80",
+      "Info": "Proxy"    
+    },
+    {
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 Pré 02",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.99.1#104.18.99.2#104.18.99.3#104.18.99.4#104.18.99.5#104.18.99.6#104.18.99.7#104.18.99.8#104.18.99.9#104.18.99.10#104.18.99.11#104.18.99.12#104.18.99.13#104.18.99.14#104.18.99.15#104.18.99.16#104.18.99.17#104.18.99.18#104.18.99.19#104.18.99.20#104.18.99.21#104.18.99.22#104.18.99.23#104.18.99.24",
+      "ProxyPort": "80",
+      "Info": "Proxy"    
+    },
+    {
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 01",
+      "FLAG": "vivo.png",
+      "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "ceprion.laviacessorios.shop",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+          {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 02",
+            "FLAG": "vivo",
+            "Payload": "CONNECT / HTTP/1.9[crlf]host: pre-onboarding-p.c6bank.app[crlf][crlf][split][crlf]OPÇÕES- // HTTP/1.9[crlf]host: ceprion.laviacessorios.shop[crlf]Esperar: 200-continue[crlf]Conexão proxy: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Conexão: Atualização[crlf]Atualização: websocket[crlf] Sec WebSocketExtensions: superspeed[crlf]Última modificação: Sex, 17 de março de 2022 04:32:39 GMT[crlf]Servidor: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build /KOT49H) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.7.41:80",
+            "ProxyPort": "80",
+            "Info": "proxy"
+},
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 03",
+"FLAG": "vivo",
+"Carga útil": "GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"Proxy IP": "104.17.70.206",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+        {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 04",
+            "FLAG": "vivo",
+            "Payload": "CONNECT / HTTP/1.9[crlf]host: pre-onboarding-p.c6bank.app[crlf][crlf][split][crlf]OPÇÕES- // HTTP/1.9[crlf]host: jtv. voidplay.online[crlf]Esperar: 200-continue[crlf]Conexão proxy: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Conexão: Atualização[crlf]Atualização: websocket[crlf] Sec WebSocketExtensions: superspeed[crlf]Última modificação: Sex, 17 de março de 2022 04:32:39 GMT[crlf]Servidor: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build /KOT49H) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.7.41:80",
+            "ProxyPort": "80",
+            "Info": "proxy"
+         },
+    {
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 05",
+      "FLAG": "vivo.png",
+      "Carga útil": "GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": " vivo360.vivo.com.br ",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+      {
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 6",
+            "FLAG": "vivo",
+            "Carga útil": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "Proxy IP": "104.17.70.206",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+          },
+{
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 7",
+      "FLAG": "vivo.png",
+      "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.71.206",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 8",
+      "FLAG": "vivo.png",
+      "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "162.159.128.7",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+    },
+    {
+      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 9",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "162.159.138.6",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+{
+"Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 10",
+            "FLAG": "vivo",
+            "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.72.206",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 11",
+            "FLAG": "vivo",
+            "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "",
+            "TlsIP": "172.64.150.8",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 12",
+            "FLAG": "vivo",
+            "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "ceprion.laviacessorios.shop",
+            "TlsIP": "104.18.37.248",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 13",
+            "FLAG": "vivo",
+            "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "ceprion.laviacessorios.shop",
+            "TlsIP": "104.18.7.41",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 14",
+            "FLAG": "vivo",
+            "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "SUA_CLOUDFLARE",
+            "TlsIP": "104.18.6.41",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY 15",
+            "FLAG": "vivo",
+            "Payload": "GET /? HTTP/1.0[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: websocket[lf]Conexão: Keep-AlivenUser-Agent: [ua]nReferer: [lf][lf]",
+            "SNI": "ceprion.laviacessorios.shop",
+            "TlsIP": "104.18.37.248",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+{
+ "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 Turbo teste",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.72.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"    
+    },
+    {
+            "Name": "VIVO SECURITY DIRECT",
+            "FLAG": "vivo",
+            "Payload": "HTTP/1.1[crlf] 200 Connection established\r\nHost: GET /? HTTP/2.0\r\nHost: youtube.com\r\n200 Connection established\r\nProxy-Connection: close\r\nConnection-Keep-true\r\nControl-Cache: no-cache\r\nContent-Length: 9999999999999999999\r\nUser-Agent: Yes \r\nContent-Encoding: 88888888\r\nContent-Language: 00000000\r\nContent-Length: 55555555\r\nContent-Location:33333333[crlf][crlf][",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 01",
+"FLAG": "vivo",
+"Payload": "[delay_split][crlf]GET / HTTP/1.1[crlf]Host: [host_port][crlf]Connection: Upgrade[crlf]Upgrade: WebSocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 02",
+"FLAG": "vivo",
+"Payload": "[delay_split][lf]GET / HTTP/1.200 Host: aol.com/Connection: Keep-AliveContent- GET https://translate.google.com.br/?hl=pt-BR/ HTTP ?Connection: Keep-Alive: 23.97.96.93/ ¿ HTTP/1.1/api/v1/user/registerAnonymous[lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+
+ {
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 03",
+"FLAG": "vivo",
+"Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: buzzfeed.com[lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 04",
+"FLAG": "vivo",
+    "Payload": "CONNECT 127.0.0.1:80[instant_split]GET www.veek.com.br HTTP/1.1[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 05",
+"FLAG": "vivo",
+"Payload": "[delay_split]GET / HTTP/1.1\r\nHost: optimize.google.com\r\nOrigin: https://www.google.com, http://www.google.com\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\nUpgrade: Websocket\r\nConnection: Keep-Alive, Upgrade\r\n\r\n",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+       {
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 06",
+"FLAG": "vivo",
+"Payload": "[delay_split]GET / HTTP/1.1\r\nHost: https://static.ads-twitter.com\r\nUpgrade: Websocket\r\nConnection: Keep-Alive, Upgrade\r\n\r\n#",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 07",
+"FLAG": "vivo",
+"Payload": "[delay_split]GET https://tagmanager.google.com/#/home@4GNet[crlf]GET https://recarga.vivo.com.br HTTP/1.1[crlf]Host: http://recarga.vivo.com.br[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 08",
+"FLAG": "vivo",
+"Payload": "[delay_split][crlf]GET / HTTP/1.1[crlf]Host: http://vivo.icarrier.com.br[crlf]Connection: Upgrade[crlf]Upgrade: WebSocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 09",
+"FLAG": "vivo",
+"Payload": "[delay_split]CONNECT [host_port]@4GNet[crlf]GET http://vivo.zerod.mobi HTTP/1.1[crlf]Host: vivo.com.br[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+          {
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 10",
+"FLAG": "vivo",
+"Payload": "[delay_split]CONNECT [host_port]@4GNet[crlf]GET http://cdnjs.clouflare.com HTTP/1.1[crlf]Host: vivo.com.br[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+
+ {
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 07 ",
+"FLAG": "vivo",
+"Payload": "[delay_split]GET / HTTP/1.1\r\nHost: optimize.google.com\r\nOrigin: https://www.google.com, http://www.google.com\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\nUpgrade: Websocket\r\nConnection: Keep-Alive, Upgrade\r\n\r\n",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+            {
+"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ 11",
+"FLAG": "vivo.png",
+"Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "152.67.54.48",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY DDD 51",
+    "FLAG": "vivo",
+    "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+  {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 01",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=revive.vivointernetgratis.com.br; secure; HttpOnly; SameSite=strict HTTP/1.1][lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 02",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]ACL /revive.vivointernetgratis.com.br HTTP/1.1][lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 03 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacoteHTTP/1.1[lf][lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 04 ",
+    "FLAG": "vivo",
+    "Payload": "[split] [method] [host_port]GET sdp.vivo.com.br/ [protocol][crlf]Proxy-Authorization: [auth]Host: sdp.vivo.com.br[crlf][crlf]MOVE http://www.portalsva2.vivo.com.br/captive-static/tarif-def/pd/index.html HTTP/1.1[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 05",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 06",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]GET http://m.clarosync.com/ HTTP/1.1 Host: http://m.clarosync.com/ User-Agent: Yes Connection: close Proxy-Connection: Keep-Alive [crlf][crlf][netData][crlf] [crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 07",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]GET http://d1n212ccp6ldpw.cloudfront.net HTTP/1.1\n\r\n\r\nCONNECT 127.0.0.1:443HTTP/1.0X-Online-Host: http://download-this-pl.info/124BR/MP.html \r\n\r\n",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 08 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]CONNECT http://i.vivo.ddivulga.com/i/gp/ HTTP/1.1[crlf][split",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 09 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]CONNECT http://portalrecarga.vivo.com.br/recarga/home/ HTTP/1.1[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 10 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 11 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 12 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split]ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com; myspace.com;mobile.google.com ;1.0.0.5[crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 13 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: hmg-embed.claromusica.com\n\n\n",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 14",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: premium.sshtunnelcloud.store[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+  {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 15 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portalrecarga.vivo.com.br/recarga/[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+ },
+ {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 16 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1][lf]Host: ceprion.laviacessorios.shop",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+  {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 17 ",
+    "FLAG": "vivo",
+    "Payload": "BPROPFIND 127.0.0.1:8799[split][lf] HTTP/1.0 [lf]Host: [rotate=support.snapfish.com;support.mapmyfitness.com;sallnet.dozapp.xyz;support.kontakt.io;uarecord.zendesk.com;sweetroad.zendesk.com;vsco.zendesk.com;support.onetwotrip.com;support.viki.com;support.holmsecurity.com;support.mobileroadie.com;support.neuronmocap.com;support.dxo.com;help.clickfunnels.com;screencastsonline.zendesk.com;support.celtx.com;support.muslimpro.com;support.discogs.com;sginteractive.zendesk.com;support.credly.com;support.sugarsync.com;help.rushlimbaugh.com;support.kidizen.com;support.twilio.com;support.mumbojumbo.com;tpbgame.zendesk.com;ingresshelp.zendesk.com;help.ableton.com;help.spreadshirt.com;wetransfer.zendesk.com;help.issuu.com;meetv.zendesk.com;eight.zendesk.com;help.iheart.com;help.standingstonegames.com;help.trainerize.com;help.coasttocoastam.com;support.securly.com;workflowy.zendesk.com;support.renvu.com;g5entertainment.zendesk.com;support.zipcar.com;gemsofwar.zendesk.com;support.watch.nba.com;faq.hellosign.com;screenad.eu;support.riotgames.com;support.paradoxplaza.com;layananku.airavpn.site;drpanda.zendesk.com;support.fiplab.com;help.behance.net;slack.zendesk.com;aide.e-monsite.com;support.cwtv.com;support.strikingly.com;prodigygame.zendesk.com;support.nixplay.com;flaregames.zendesk.com:support.cmon.com;faq.mightynetworks.com;support.wealthnavi.com;help.musicnotes.com;help.makemeslick.com;help.getmevo.com;support.abra.com;help.tcgplayer.com;mykronoz.zendesk.com;support.ankama.com;help.grindr.com;support.gordonedwards.net;support.mobi2go.com;support.ipvanish.com;support.withings.com;lykkex.zendesk.com;pggmencoleden.zendesk.com;help.positivegrid.com;helpdesk.flexradio.com;help.dreamhost.com;support.cambr;dgeenglish.org;support.ask.fm;care.pressreader.com;help.olx.in;moonactive.zendesk.com;support.getbase.com;history.zendesk.com;produttivo.zendesk.com;support.orcid.org;support.golocalapps.com;support.moneytap.jp;help.acuityscheduling.com;support-pocket.sumally.com;help.remind.com;support.awesome-table.com;support.ampleair.com.au;cs.vtcmobile.vn;support.oneup.com;sup;ort.scribd.com;ecosia.zendesk.com;support.dbconvert.com;cbchelp.cbc.ca;get.cloudapp.help;support.thetileapp.com;support.taskrabbit.com;support.clickcease.com;support.bestwebsoft.com;support.waveapps.com;support.oceanex.pro;autovit.zendesk.com][realData]\[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+    {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ  18 ",
+    "FLAG": "vivo",
+    "Payload": "BPROPFIND 127.0.0.1:8799[split][lf] HTTP/1.0 [lf]Host: [rotate=سلام زه یوازې غواړم یو څوک د ما سره د وینډوز 7 لپاره ovpn یا بل vpn پلیټ فارم ډاونلوډ کې مرسته وکړي.][realData]\[crlf][crlf][",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+  {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 19 ",
+    "FLAG": "vivo",
+    "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+  {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 20 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: mobile.adobe.com[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+  {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 21 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: plus.google.com[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+  {
+    "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 SECURITY PRÉ 22 ",
+    "FLAG": "vivo",
+    "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "152.67.54.48",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
+          { 
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 TESTE🛠️",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed. com; myspace.com;mobile.google.com ;1.0.0.5[crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+     },
+       {
+          "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 TESTE 2🛠️",
+          "FLAG": "vivo",
+          "Payload": "[delay_split]HEAD / HTTP/1.1[crlf]Host: [app_host][crlf]Conexão: Atualização[crlf]Atualização:[crlf][crlf]",
+          "SNI": "",
+          "TlsIP": "",
+          "ProxyIP": "[app_host]",
+          "ProxyPort": "80",
+          "Info": "Proxy"
+      },
+      {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 NOVA ✅",
+            "FLAG": "vivo",
+            "Carga útil": "[delay_split]OBTER http://m.clarosync.com/ Host HTTP/1.1: http://m.clarosync.com/
+Agente do usuário: Sim
+Conexão: fechar
+Conexão proxy: Keep-Alive
+[crlf][crlf][netData][crlf] [crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"  
+    },
+       {
+            "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 NOVA 3🟣",
+ 	"FLAG": "vivo",
+ 	"Payload": "[delay_split]ACL / HTTP1.1/Host: [rotate=portal.vivo.com.br;portalrecarga.vivo.com.br;mobile.adobe.com;www.loja.vivo.com.br ;vigia.vivo.com.br;www.vivo.com.br;m.youtube.com.br] [crlf] [crlf]",
+  	"SNI": "[app_host]",
+  	"TlsIP": "[app_host]",
+  	"ProxyIP": "[app_host]",
+  	"ProxyPort": "80",
+  	"Info": "Proxy"
+      },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 01",
+      "FLAG":"vivo.png",
+      "Payload":"[split][delay_split]ACL / /\n]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 02",
+      "FLAG":"vivo",
+      "Payload":"[delay_split]CONECTAR http://i.vivo.ddivulga.com/i/gp/ HTTP/1.1[crlf][split]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 03",
+      "FLAG":"vivo",
+      "Payload":"[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 04",
+      "FLAG":"vivo",
+      "Carga útil":"[delay_split]ACL / /\n[atraso]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 05",
+      "FLAG":"vivo",
+      "Payload":"[delay_split][lf]GET / HTTP/1.1[lf]Host: br.speednet.store[lf][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 06",
+      "FLAG":"vivo",
+      "Payload":"[split][delay_split]ACL / /\n",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 07",
+      "FLAG":"vivo",
+      "Payload":"[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72 0,206;104,17 .73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 08",
+      "FLAG":"vivo",
+      "Payload":"[delay_split] GET / HTTP/2[crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 09",
+      "FLAG":"vivo",
+      "Payload":"[delay_split][lf]GET / HTTP/1.1[lf]Host: premium.sshtunnelcloud.store[lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PROXY 10",
+      "FLAG":"vivo",
+      "Payload":"[delay_split]CONECTAR navegue.vivo.ddivulga.com/pacote
+HTTP/1.1[lf][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"152.67.54.48",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name": "ðŸŸ£VIVO PRÃ‰-PAGO 1ðŸŸ£",
+            "FLAG": "vivo",
+            "Payload": "[split]ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com]@GN_VPN[crlf]@@@[split][crlf]ACL / HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]@@@[split][crlf]ACL / HTTP/1.1[crlf]Host: vivo.tl[crlf]Upgrade: WebSocketExtensions[crlf]Connection: Upgrade-Insecure-Requests[crlf][crlf]@@@[split][crlf]ACL / HTTP/1.1[crlf]Host: gratis.vivo-bemobi.com[crlf]Upgrade: WebSocketExtensions[crlf]Connection: [crlf][crlf]",
+            "SNI": "portalrecarga.vivo.com.br",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "ðŸŸ£VIVO PRÃ‰-PAGO 2ðŸŸ£",
+            "FLAG": "vivo",
+            "Payload": "[split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]@@@[split]ACL / HTTP/1.1[crlf]Host: tjnetvpn.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Pragma: no-cache[crlf]Cache-Control: no-cache[crlf]GLOBALNET[crlf][crlf]\r\n@@@[split]ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com; myspace.com;mobile.google.com ;1.0.0.5[crlf]@@@[split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=revive.vivointernetgratis.com.br; secure; HttpOnly; SameSite=strict HTTP/1.1][crlf]@@@[split]CONNECT http://portalrecarga.vivo.com.br/recarga/home/ HTTP/1.1[lf]@@@[split]\\nCONNECT [host_port]@portalrecarga.vivo.com.br/recarga/home/[protocol]\\nGET  http://sdp.vivo.com.br/ HTTP/1.1\\nHost: portalrecarga.vivo.com.br/recarga/home/produto[crlf]X-Forwarded-For: portalrecarga.vivo.com.br/recarga/home/\\n\\n\\n@@@[split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf] @@@[split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=revive.vivointernetgratis.com.br; secure; HttpOnly; SameSite=strict HTTP/1.1][lf]@@@[split] [method] [host_port]GET sdp.vivo.com.br/ [protocol][crlf]Proxy-Authorization: [auth]Host: sdp.vivo.com.br[crlf][crlf]MOVE http://www.portalsva2.vivo.com.br/captive-static/tarif-def/pd/index.html HTTP/1.1[crlf][crlf]  ",
+            "SNI": "portalrecarga.vivo.com.br",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "ðŸŸ£VIVO PRÃ‰-PAGO 3ðŸŸ£",
+            "FLAG": "vivo",
+            "Payload": "[split][crlf]GET / HTTP/1.1[crlf]Host: privacidade.ambev.com.br[crlf]Upgrade@@@[split][crlf]ACL / HTTP/1.1[crlf]Host: [rotate= portal.vivo.com.br ; portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com .br; www.vivo.com.br ; buzzfeed.com ; mobile.adobe.com ;1.0.0.5;1.1.1.1; buzzfeed.com ; myspace.com ; mobile.google.com ;1.0.0.5; spotify.com ; pagamentoonline.emis.co.ao ; playwaze.com ; wazer.com ; soundwaze.com ; escolas.playwaze.com ; www.wazeunlimited.com ; bucs.playwaze.com ; ftp.chillwaze.com ; unpkg.com;c6banco . com.br ; helpypro.stooli.com.br ; atendimento.lojadointer.com.br ; creatorsupport.deezer.com:80 ; itsupport.surveymonkey.com ; linefriendshelp.zendesk.com][crlf][crlf][crlf]@@@[split]GET / HTTP/1.1[crlf]Host: tjnetvpn.xyz[rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@GN_VPN][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@GN_VPN][crlf]X-Forwarded-For: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@GN_VPN][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: [rotate=portalrecarga.vivo.com.br;meuplano.tim.com.br;www.claro.com.br;buzzfeed.com;mobile.adobe.com;@GN_VPN][crlf]Upgrade: websocket[crlf][raw][crlf][crlf]@@@[split][crlf]PUT / HTTP/1.1[crlf]Host: gratis.vivo-bemobi.com[crlf]Upgrade: WebSocketExtensions[crlf]Connection: [crlf][crlf]",
+            "SNI": "portalrecarga.vivo.com.br",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "ðŸŸ£VIVO PRÃ‰-PAGO 4ðŸŸ£",
+            "FLAG": "vivo",
+            "Payload": "[split][crlf]ACL / HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]@@@[split][crlf]TRACE / HTTP/1.1[crlf]Host: vivo.tl[crlf]Upgrade: WebSocketExtensions[crlf]Connection: Upgrade-Insecure-Requests[crlf][crlf]@@@[split][crlf]PUT / HTTP/1.1[crlf]Host: gratis.vivo-bemobi.com[crlf]Upgrade: WebSocketExtensions[crlf]Connection: [crlf][crlf]@@@[split][crlf]ACL / HTTP/1.1[crlf]Host: microsoft.com[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]@@@[split][crlf]PUT / HTTP/1.1[crlf]Host: amazonaws.com[crlf]Upgrade: Keep-Alive[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "portalrecarga.vivo.com.br",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "ðŸŸ£VIVO PRÃ‰-PAGO 5ðŸŸ£",
+            "FLAG": "vivo",
+            "Payload": "[split]\\\\nCONNECT [host_port]@portalrecarga.vivo.com.br/recarga/home/[protocol]\\\\nGETÃƒâ€š  http://sdp.vivo.com.br/ HTTP/1.1\\\\nHost: portalrecarga.vivo.com.br/recarga/home/produto[crlf]X-Forwarded-For: portalrecarga.vivo.com.br/recarga/home/\\\\n\\\\n\\\\n@@@[crlf]CONNECT http://portalrecarga.vivo.com.br/recarga/home/ HTTP/1.1[crlf]@@@[crlf]ACL / HTTP/1.2\\\\r\\\\nX-Online-Host:mhost\\\\r\\\\n\\\\r\\\\nCONNECT mip:443\\r\\nHTTP/1.0/ [crlf][crlf]",
+            "SNI": "portalrecarga.vivo.com.br",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "ðŸŸ£VIVO PRÃ‰-PAGO 6ðŸŸ£",
+            "FLAG": "vivo",
+            "Payload": "[split]ACL / Report-To: {\\\"endpoints\\\":{\\\"url\\\":\\\"https:\\\\/\\\\/a.nel.cloudflare.com\\\\/report\\\\/v3?s=xYmmJL%2B%2BATOswvN%2Fvw5xHsjgEB3TGGwdyLXghAPXoT7CY6ludIUBedlvBxVAnEswt3wfHvh5Zz%2B4T1fmx0M84LpFUU7QPDccwEjqJEw7onToKsqm820u0so%3D\\\"},\\\"group\\\":\\\"cf-nel\\\",\\\"max_age\\\":604800}#ACL / HTTP/1.1[crlf]Host: [random=recarga.vivo.com.br;internetgratis.vivo.com.br][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]@@@[split]ACL AtlasN42/ HTTP/1.1[crlf]Host: [host] [crlf]Upgrade: websocket[crlf][crlf]@@@[split][crlf]GET / HTTP/1.1[crlf]Host: portal.vivo.com.br\\\\\\\\\\\\\\\\n\\\\\\\\\\\\\\\\n\\\\\\\\\\\\\\\\n \\\\\\\\\\\\\\\\n",
+            "SNI": "portalrecarga.vivo.com.br",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "ðŸŸ£VIVO  DDD 91ðŸŸ£",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.9[crlf]Host: ceprion.laviacessorios.shop[crlf]X-Online-Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PLANO EASY 1",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Conexão: Atualização[crlf]Atualização: Websocket[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.16.51.111",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PLANO EASY 2",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: Websocket[crlf]Conexão: Keep-Alive[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.18.7.80",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PLANO EASY 3",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: Websocket[crlf]Conexão: Keep-Alive[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.18.6.80",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PLANO EASY 4",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: Websocket[crlf]Conexão: Keep-Alive[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.18.6.41",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PLANO EASY 5",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: Websocket[crlf]Conexão: Keep-Alive[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"172.64.150.8",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PLANO EASY 6",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: Websocket[crlf]Conexão: Keep-Alive[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.18.7.41",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM EXPIRADO 1",
+      "FLAG":"TIM",
+      "Carga útil":"HTTP/ [crlf][crlf]|[crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"209.14.2.131",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM EXPIRADO 2",
+      "FLAG":"tim",
+      "Payload":"HTTP/ [crlf][crlf]Host:ceprion.laviacessorios.shop[protocolo][crlf]|[crlf]",
+      "SNI":"",
+      "TlsIP":"1",
+      "ProxyIP":"209.14.2.131",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM EXPIRADO 3",
+      "FLAG":"tim",
+      "Payload":"ACL /wss.hlp HTTP/1.3[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket[crlf]Conexão: Keep-Alive[crlf]Atualização[crlf]Cache- Controle: sem cache[crlf]@TMYCOMNECTVPN[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"141.193.213.21",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM EXPIRADO 4",
+      "FLAG":"tim",
+      "Payload":"ACL /wss.hlp HTTP/1.3[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket[crlf]Conexão: Keep-Alive[crlf]Atualização[crlf]Cache- Controle: sem cache[crlf]@TMYCOMNECTVPN[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"141.193.213.21",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM EXPIRADO 5",
+      "FLAG":"tim",
+      "Payload":"ACL /index.html HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: websocket[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.18.33.113",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM EXPIRADO 6",
+      "FLAG":"tim",
+      "Payload":"ACL /index.html HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Atualização: websocket[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.18.33.113",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM SALDO VALIDO 1",
+      "FLAG":"tim",
+      "Carga útil":"ACL wss://ca.speednet.store HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com; netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra. com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net] [lf]Atualização: Websocket[lf][split][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"172.64.154.143",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM SALDO VALIDO 2",
+      "FLAG":"tim",
+      "Carga útil":"ACL wss://ca.speednet.store HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com; netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra. com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net] [lf]Atualização: Websocket[lf][split][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"172.67.188.168",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM SALDO VALIDO 3",
+      "FLAG":"tim",
+      "Carga útil":"ACL wss://ca.speednet.store HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com; netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra. com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net] [lf]Atualização: Websocket[lf][split][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.17.64.225",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM SALDO VALIDO 4",
+      "FLAG":"tim",
+      "Carga útil":"ACL wss://ca.speednet.store HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com; netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra. com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net] [lf]Atualização: Websocket[lf][split][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.19.241.93",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM SALDO VALIDO 5",
+      "FLAG":"tim",
+      "Carga útil":"ACL wss://ca.speednet.store HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com; netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra. com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net] [lf]Atualização: Websocket[lf][split][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.18.28.182",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"╰┈[☞>📱 🔵 TIM SALDO VALIDO 6",
+      "FLAG":"tim",
+      "Carga útil":"ACL wss://ca.speednet.store HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com; netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra. com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net] [lf]Atualização: Websocket[lf][split][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.19.239.25",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+      },
+         {
+            "Name": "╰┈[☞>📱 🔵 TIM NOVAðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "[split]POLL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare .com][crlf][split]PATCH / HTTP/1.1[crlf]Host: [rotate=www.c6bank.com.br;topspeed.c6bank.app][crlf][crlf][split][crlf]TOPSPEED- / HTTP/1.1[crlf]host: ceprion.laviacessorios.shop[crlf]Aceitar codificaÃ§Ã£o: identidade[crlf]Esperar: 100-continue[crlf]ConexÃ£o proxy: Keep-Alive[crlf]Keep-Alive: tempo limite =5, max=1000[crlf]ConexÃ£o: AtualizaÃ§Ã£o[crlf]AtualizaÃ§Ã£o: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Referenciador: https://bit.ly/3sk7k0z; https://bit.ly/47ehRco [crlf]Ãšltima modificaÃ§Ã£o: Sex, 17 de marÃ§o de 2022 04:32:39 GMT[crlf]Servidor: cloudflare[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2 ); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM SALDO VÃLIDO 1ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "[split]GET / HTTP/1.3[crlf]Host: creatorsupport.deezer.com[crlf]Esperar: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: strackssh.shop[crlf]Esperado: 100-continue[crlf]AtualizaÃ§Ã£o: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google .com/bot.html)[crlf][crlf]@@@CONNECT /cdn-cgi/trace HTTP/1.1[lf]Host: creatorsupport.deezer.com[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf] Host: ceprion.laviacessorios.shop[lf]AtualizaÃ§Ã£o: websocket[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.64.225",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM SALDO VÃLIDO 2ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "CONNECT / HTTP/1.1[crlf]Host: creatorsupport.deezer.com[crlf][crlf][delay_split][crlf][crlf]POLL / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]AtualizaÃ§Ã£o: Websocket[crlf][crlf]@@@[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Esperar: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.9[crlf]Host: strackssh.shop[crlf]Esperado: 100-continue[crlf]AtualizaÃ§Ã£o: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google .com/bot.html)[crlf][crlf]@@@[delay_split]ACL / HTTP/1.1[crlf]host: app.sandbox.c6bank.com.br[crlf][crlf][split][crlf]OPÃ‡Ã•ES- // HTTP/1.1[crlf ]host: strackssh.shop[crlf]Esperar: 200-continue[crlf]ConexÃ£o proxy: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]ConexÃ£o: AtualizaÃ§Ã£o[crlf ]AtualizaÃ§Ã£o: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Ãšltima modificaÃ§Ã£o: Sex, 17 de marÃ§o de 2022 04:32:39 GMT[crlf]Servidor: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4 .2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.239.166",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM SALDO VÃLIDO 3ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]ConexÃ£o: AtualizaÃ§Ã£o[crlf]AtualizaÃ§Ã£o: Websocket[crlf][delay_split][crlf]@@@ACL / HTTP/1.3[crlf]Host: tim.adfast.com.br[crlf]Esperado: 100-continue[crlf][crlf][delay_split][crlf][crlf]ACL- / / HTTP/1.3[crlf]Host: strackssh.shop[crlf]Esperado: 100-continue[crlf]AtualizaÃ§Ã£o: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google. com/bot.html)[crlf][crlf]@@@ACL / HTTP/1.1[crlf]host: www.c6bank.com.br[crlf][crlf][split][crlf]MASTERPAYSSH- / HTTP/1.1[crlf]host: strackssh.shop[crlf]ConexÃ£o: AtualizaÃ§Ã£o[crlf]AtualizaÃ§Ã£o: websocket[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf]@TBS[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM SALDO VÃLIDO 4ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "ACL / HTTP/1.1[crlf]host: www.c6bank.com.br[crlf][crlf][split][crlf]TOPSPEED- / HTTP/1.1[crlf]host: ceprion.laviacessorios.shop[crlf]ConexÃ£o: AtualizaÃ§Ã£o[crlf]AtualizaÃ§Ã£o: websocket[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.19.239.25",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM EXPIRADO 1ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "186.233.117.97#104.16.123.175.111#104.19.240.25#104.18.29.182#104.16.53.111#104.19.239.25#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25#104.18.28.181#104.19.237.25#104.17.64.225#172.64.154.143#104.16.239.166#104.18.33.113",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM EXPIRADO 2ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: ssh9.gestor-ssh.online[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@GN_VPN[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM EXPIRADO 3ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": ""
+        },
+        {
+            "Name": "╰┈[☞>📱 🔵 TIM EXPIRADO 4ðŸ”µ",
+            "FLAG": "tim",
+            "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
+            "SNI": "",
+            "TlsIP": "mobile.adobe.com",
+            "ProxyIP": "",
+            "ProxyPort": "80",
+            "Info": "Tlsws"
+      },
+    { 
+      "Name":"╰┈[☞>📱 🔵 TIM SALDO VALIDO 4",
+      "FLAG":"tim",
+      "Payload":"ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: ceprion.laviacessorios.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+    "ProxyIP":"104.19.241.93#104.18.28.182#104.19.239.25#104.18.33.113#172.64.154.143#104.18.99.70#104.16.53.111#172.67.188.168#104.17.64.225",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+},
+{
+"Name": "VIVO CLOUDFLARE 01 ⚡",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.97.70#104.18.98.70#104.16.239.166#104.17.64.225#104.18.33.113#141.193.213.10#141.193.213.11#104.18.35.116#172.64.152.140#172.64.154.143#104.19.240.93",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+},
+{
+ "Name": "VIVO TODAS REGIÕES ✅️",
+            "FLAG": "vivo",
+            "Payload": "ACL wss://ceprion.laviacessorios.shop HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.99.1#104.18.99.2#104.18.99.3#104.18.99.4#104.18.99.5#104.18.99.6#104.18.99.7#104.18.99.8#104.18.99.9#104.18.99.10#104.18.99.11#104.18.99.12#104.18.99.13#104.18.99.14#104.18.99.15#104.18.99.16#104.18.99.17#104.18.99.18#104.18.99.19#104.18.99.20#104.18.99.21#104.18.99.22#104.18.99.23#104.18.99.24",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+},
+{
+"Name": "VIVO SECURITY [03]",
+            "FLAG": "vivo",
+            "Payload": "UPDATE / HTTP/1.1[lf]Host: www.vivoplataformadigital.com.br;www.fundacaotelefonicavivo.org.br;ae.godaddy.com[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf]@TERRORXDROID[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+"Name": "VIVO SECURITY [02]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL / HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "152.67.54.48",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO CONTROLE NOVA ✅️",
+            "FLAG": "vivo",
+            "Payload": "ACL wss:// HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "45.140.193.72",
+            "TlsIP": "45.140.193.72",
+            "ProxyIP": "141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO CONTROLE [05]",
+            "FLAG": "vivo",
+            "Payload": "FORCE /? FULL / HTTP/1.0[crlf]HOST: ceprion.laviacessorios.shop[crlf]UPGRADE: TERROR[crlf][crlf]",
+            "SNI": "45.140.193.72",
+            "TlsIP": "45.140.193.72",
+            "ProxyIP": "141.193.213.10#141.193.213.10#104.17.70.206#141.193.213.11#104.18.7.41#104.26.5.32#141.193.213.10#141.193.213.10#104.17.70.206#141.193.213.11#104.18.7.41#104.26.5.32#141.193.213.10",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+"Name": "VIVO EASY [06] NOVA ✅️",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive-Upgrade[crlf] https://@masterpayssh[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.7.41#104.18.6.41#172.64.144.109#104.18.6.80#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO EASY [07]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: ceprion.laviacessorios.shop[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.6.80#104.18.7.80#162.159.138.6#162.159.128.7#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#172.64.144.109#104.18.43.147#104.18.7.41#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.17.75.206#104.18.6.80#104.18.7.80#104.18.7.41#104.18.6.41#162.159.128.7#162.159.138.6",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+{
+          "Name": "🔴🔴 VIVO PLANO CONTROLE 01🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "ACL wss:// HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.18.27.160",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 02🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.26.5.32",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 03🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.17.70.206",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 04🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 05🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.17.70.206",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+   {
+"Name": "🔴🔴 VIVO PLANO CONTROLE 06🔴🔴",
+"FLAG": "vivo.png",
+"Payload": "Payload: ACL / HTTP/1.1[lf]Host: ceprion.laviacessorios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+       {
+            "Name": "🔴🔴VIVO CONTROLE/EASY 7 🔴🔴",
+            "FLAG": "vivo",
+            "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.6.80",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔴🔴VIVO CONTROLE/EASY 8 🔴🔴",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "legado.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+
+        }
+    ]
+}
