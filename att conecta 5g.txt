@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.4.",
+  "Version": "0.0.5.",
   "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Versão: 2.5\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
@@ -14,7 +14,7 @@
   "Sms": "https://bitbin.it/ukTsID96/raw/",
     "videoUrl": null,
     "logoonline": "",
-    "fundoonline": "https://i.ibb.co/6JRrLkN/59082f03-5f8c-4846-81c2-78c7f1bea6cf.jpg",
+    "fundoonline": "https://i.ibb.co/BCC9ptW/b0e95a20-3e6a-491a-9f00-59df118c7236.jpg",
     "fundoDoLogOnline": "https://telegra.ph/file/d338567220afa7e5cf75e.jpg",
     "EmailFeedback": "https://ceprion.jtvplay.com.br/renovar.php",
     "UrlContato": "https://api.whatsapp.com/send?phone=5547991592447",
@@ -365,7 +365,7 @@
       "Payload": "ACL / HTTP/1.1[lf]Host: v67.thur.store[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "vivo.com.br",
+      "ProxyIP": "162.159.135.63",
       "ProxyPort": "80",
       "Info": "Proxy"    
     },
