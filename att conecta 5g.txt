@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.6.",
+  "Version": "0.0.7.",
   "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Versão: 2.5\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
@@ -362,7 +362,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO EXPIRADO",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: v67.thur.store[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v89.thur.store[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.135.63",
