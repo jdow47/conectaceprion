@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.13.",
+  "Version": "0.0.14.",
   "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Versão: 2.5\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
@@ -82,7 +82,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY GB [1]",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "api.vivo.com.br",
