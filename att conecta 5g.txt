@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.22",
+  "Version": "0.0.23",
   "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
@@ -389,6 +389,46 @@
       "Info": "Proxy"
     },
     {
+      "Name": "🌟 Vivo Pré-Pago - Ativo 01",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.27.160",
+      "ProxyPort": "80",
+      "Info": "Proxy Ativo"
+    },
+    {
+      "Name": "🔄 Vivo Pré-Pago - Quase conecta 02",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.12.205",
+      "ProxyPort": "80",
+      "Info": "Quase conecta"
+    },
+    {
+      "Name": "⛔ Vivo Pré-Pago - Expirado 03",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.67.74.152",
+      "ProxyPort": "80",
+      "Info": "Expirado"
+    },
+    {
+      "Name": "📶 Vivo Pré-Pago - Sem Dados 04",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "162.159.135.63",
+      "ProxyPort": "80",
+      "Info": "Expirado"
+    },
+    {
       "Name": "Vivo Ultra Speed - Teste 01",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
@@ -547,6 +587,68 @@
   "ProxyIP": "162.159.135.63",
   "ProxyPort": "80",
   "Info": "Proxy Expirado"
+},
+{
+"Name": "⛔ TIM Pré-Pago - Expirado A01",
+    "FLAG": "tim.png",
+    "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "186.228.44.149",
+    "ProxyPort": "8080",
+    "Info": "Expirado / Latência alta"
+  },
+  {
+    "Name": "🔄 TIM Pré-Pago - Quase conecta A02",
+    "FLAG": "tim.png",
+    "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "179.251.80.158",
+    "ProxyPort": "5678",
+    "Info": "Quase conecta (SOCKS4 Elite)"
+  },
+  {
+    "Name": "🔄 TIM Pré-Pago - Quase conecta A03",
+    "FLAG": "tim.png",
+    "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "177.23.176.58",
+    "ProxyPort": "8080",
+    "Info": "Instável / Latência alta"
+  },
+  {
+    "Name": "⛔ TIM Pré-Pago - Expirado A04",
+    "FLAG": "tim.png",
+    "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "179.228.241.22",
+    "ProxyPort": "8080",
+    "Info": "Expirado / Proxy alternativo"
+  },
+  {
+    "Name": "⛔ TIM Pré-Pago - Expirado A05",
+    "FLAG": "tim.png",
+    "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "200.255.88.23",
+    "ProxyPort": "80",
+    "Info": "Fallback / não TIM"
+  },
+  {
+    "Name": "🌐 TIM Pré-Pago - Ativo 05",
+    "FLAG": "tim.png",
+    "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "185.199.229.156",
+    "ProxyPort": "80",
+    "Info": "Proxy Ativo"
+}
+
     }
   ]
 }
