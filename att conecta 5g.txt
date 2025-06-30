@@ -396,7 +396,7 @@
       "TlsIP": "",
       "ProxyIP": "104.18.27.160",
       "ProxyPort": "80",
-      "Info": "Proxy Ativo"
+      "Info": "Proxy"
     },
     {
       "Name": "🔄 Vivo Pré-Pago - Quase conecta 02",
@@ -406,7 +406,7 @@
       "TlsIP": "",
       "ProxyIP": "104.26.12.205",
       "ProxyPort": "80",
-      "Info": "Quase conecta"
+      "Info": "Proxy"
     },
     {
       "Name": "⛔ Vivo Pré-Pago - Expirado 03",
@@ -416,7 +416,7 @@
       "TlsIP": "",
       "ProxyIP": "172.67.74.152",
       "ProxyPort": "80",
-      "Info": "Expirado"
+      "Info": "Proxy"
     },
     {
       "Name": "📶 Vivo Pré-Pago - Sem Dados 04",
@@ -426,7 +426,7 @@
       "TlsIP": "",
       "ProxyIP": "162.159.135.63",
       "ProxyPort": "80",
-      "Info": "Expirado"
+      "Info": "Proxy"
     },
     {
       "Name": "Vivo Ultra Speed - Teste 01",
@@ -436,7 +436,7 @@
       "TlsIP": "",
       "ProxyIP": "1.1.1.1",
       "ProxyPort": "80",
-      "Info": "Proxy de Teste"
+      "Info": "Proxy"
     },
     {
       "Name": "Vivo Max Performance - Teste 02",
@@ -446,7 +446,7 @@
       "TlsIP": "",
       "ProxyIP": "8.8.8.8",
       "ProxyPort": "80",
-      "Info": "Proxy de Teste"
+      "Info": "Proxy"
     },
     {
       "Name": "Vivo Global Access - Teste 03",
@@ -456,7 +456,7 @@
       "TlsIP": "",
       "ProxyIP": "104.26.6.32",
       "ProxyPort": "80",
-      "Info": "Proxy de Teste"
+      "Info": "Proxy"
 },
 {
   "Name": "Vivo Ultra - Conexão Nova 01",
@@ -526,7 +526,7 @@
   "TlsIP": "",
   "ProxyIP": "104.18.27.160",
   "ProxyPort": "80",
-  "Info": "Proxy Ativo"
+  "Info": "Proxy"
 },
 {
   "Name": "Vivo Pré-Pago - Expirado 02",
@@ -536,7 +536,7 @@
   "TlsIP": "",
   "ProxyIP": "172.67.74.152",
   "ProxyPort": "80",
-  "Info": "Proxy Expirado"
+  "Info": "Proxy"
 },
 {
   "Name": "Vivo Pré-Pago - Sem Dados 03",
@@ -546,7 +546,7 @@
   "TlsIP": "",
   "ProxyIP": "104.26.12.205",
   "ProxyPort": "80",
-  "Info": "Sem Dados"
+  "Info": "Proxy"
 },
 {
   "Name": "TIM Ultra - Conexão Nova 01",
@@ -576,7 +576,7 @@
   "TlsIP": "",
   "ProxyIP": "104.18.4.18",
   "ProxyPort": "80",
-  "Info": "Proxy Ativo"
+  "Info": "Proxy"
 },
 {
   "Name": "TIM Pré-Pago - Expirado 02",
@@ -586,7 +586,7 @@
   "TlsIP": "",
   "ProxyIP": "162.159.135.63",
   "ProxyPort": "80",
-  "Info": "Proxy Expirado"
+  "Info": "Proxy"
 },
 {
 "Name": "⛔ TIM Pré-Pago - Expirado A01",
@@ -595,8 +595,8 @@
     "SNI": "",
     "TlsIP": "",
     "ProxyIP": "186.228.44.149",
-    "ProxyPort": "8080",
-    "Info": "Expirado / Latência alta"
+    "ProxyPort": "80",
+    "Info": "Proxy"
   },
   {
     "Name": "🔄 TIM Pré-Pago - Quase conecta A02",
@@ -606,7 +606,7 @@
     "TlsIP": "",
     "ProxyIP": "179.251.80.158",
     "ProxyPort": "5678",
-    "Info": "Quase conecta (SOCKS4 Elite)"
+    "Info": "Proxy"
   },
   {
     "Name": "🔄 TIM Pré-Pago - Quase conecta A03",
@@ -616,7 +616,7 @@
     "TlsIP": "",
     "ProxyIP": "177.23.176.58",
     "ProxyPort": "8080",
-    "Info": "Instável / Latência alta"
+    "Info": "Proxy"
   },
   {
     "Name": "⛔ TIM Pré-Pago - Expirado A04",
@@ -626,7 +626,7 @@
     "TlsIP": "",
     "ProxyIP": "179.228.241.22",
     "ProxyPort": "8080",
-    "Info": "Expirado / Proxy alternativo"
+    "Info": "Proxy"
   },
   {
     "Name": "⛔ TIM Pré-Pago - Expirado A05",
@@ -636,7 +636,7 @@
     "TlsIP": "",
     "ProxyIP": "200.255.88.23",
     "ProxyPort": "80",
-    "Info": "Fallback / não TIM"
+    "Info": "Proxy"
   },
   {
     "Name": "🌐 TIM Pré-Pago - Ativo 05",
@@ -646,7 +646,7 @@
     "TlsIP": "",
     "ProxyIP": "185.199.229.156",
     "ProxyPort": "80",
-    "Info": "Proxy Ativo"
+    "Info": "Proxy"
     }
   ]
 }
