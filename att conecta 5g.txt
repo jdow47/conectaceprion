@@ -1,53 +1,44 @@
 {
-  "Version": "0.0.19.",
-  "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
-    🆚 Versão: 2.5\n
-•••••••••••••••••••••••••••••••••••••••••••••\n
-  🔰Funcionando🔰\n
-🔰🟡𝗢𝗶     OFFLINE 🟢\n
-🔰🔵𝗧𝗜𝗠    ONLINE 🟢\n
-🔰🟣𝗩𝗜𝗩𝗢   ONLINE 🟢\n
-🔰🔴𝗖𝗟𝗔𝗥𝗢  OFFLINE 🔴\n
-•••••••••••••••••••••••••••••••••••••••••••••••\n
-   𝗗𝗜𝗖𝗔: Tenha sempre em mãos 2 Chips, assim você\n   terá uma operadora a  +  para usar, caso  a outra pare de funcionar\n 🔸𓂀 𝕊𝔼ℝ𝕍𝕀𝔻𝕆ℝ 𝟘𝟙 ℙℝ𝕀ℕℂ𝕀ℙ𝔸𝕃 𓂀🔸",
+  "Version": "0.0.21",
+  "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
-    "videoUrl": null,
-    "logoonline": "",
-    "fundoonline": "https://i.ibb.co/SX3cjvc/e81c9b8d-37ac-46ec-9c10-a55fc804c326.jpg",
-    "fundoDoLogOnline": "https://telegra.ph/file/d338567220afa7e5cf75e.jpg",
-    "EmailFeedback": "https://ceprion.jtvplay.com.br/renovar.php",
-    "UrlContato": "https://api.whatsapp.com/send?phone=5547991592447",
-    "UrlTermos": "http://speed.cloudflare.com",
-    "CheckUser": "true",
-    "UdpPort": "7300;7400;7200;7100",
-    "Servers": [
-        {
-            "Name": "SERVIDOR CEPRION",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "android.softwar.shop",
-            "CheckUser": "http://179.127.16.133:5454/checkUser",
-            "ServerPort": "22",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-        {
-            "Name": "CEPRION",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "android.softwar.shop",
-            "CheckUser": "http://179.127.16.133:5454/checkUser",
-            "ServerPort": "22",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        }
-    ],
-    "Networks": [
-     {                         
-      "Name": "SERVIDOR",
+  "videoUrl": null,
+  "logoonline": "",
+  "fundoonline": "https://i.ibb.co/SX3cjvc/e81c9b8d-37ac-46ec-9c10-a55fc804c326.jpg",
+  "fundoDoLogOnline": "https://telegra.ph/file/d338567220afa7e5cf75e.jpg",
+  "EmailFeedback": "https://ceprion.jtvplay.com.br/renovar.php",
+  "UrlContato": "https://api.whatsapp.com/send?phone=5547991592447",
+  "UrlTermos": "http://speed.cloudflare.com",
+  "CheckUser": "true",
+  "UdpPort": "7300;7400;7200;7100",
+  "Servers": [
+    {
+      "Name": "Servidor Principal Conecta",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "android.softwar.shop",
+      "CheckUser": "http://179.127.16.133:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "Conecta Premium",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "android.softwar.shop",
+      "CheckUser": "http://179.127.16.133:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "Servidor de Rede",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "true",
@@ -56,21 +47,19 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
-  ],
-  "Networks": [
-      {  
-       "Name": "⚡𝗘𝗦𝗖𝗢𝗟𝗛𝗔 𝗦𝗨𝗔 𝗢𝗣𝗘𝗥𝗔𝗗𝗢𝗥𝗔⚡",
-          "FLAG": "",
-          "Payload": "",
-          "SNI": "",
-          "TlsIP": "",
-          "ProxyIP": "",
-          "ProxyPort": "",
-          "Info": ""
-        },
-    {    
-      "Name": "🌐🌐🌐===𝘾𝙊𝙉𝙀𝙓𝙊̃𝙀𝙎 𝙑𝙄𝙑𝙊🟣⬇️===🌐🌐🌐",
+    },
+    {
+      "Name": "Selecione Sua Operadora",
+      "FLAG": "",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": ""
+    },
+    {
+      "Name": "Conexões Vivo - Escolha Sua Melhor Opção",
       "FLAG": "",
       "Payload": "",
       "SNI": "",
@@ -78,9 +67,9 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
-},
+    },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY GB [1]",
+      "Name": "Vivo Easy - Conexão Otimizada 01",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
@@ -88,19 +77,19 @@
       "ProxyIP": "api.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-  },
-    {  
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY GB [1]",
+    },
+    {
+      "Name": "Vivo Easy - Conexão Otimizada 02",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.64.150.8",
       "ProxyPort": "80",
       "Info": "Proxy"
-  },
-{
-"Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY GB [3]",
+    },
+    {
+      "Name": "Vivo Easy - Conexão Otimizada 03",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
@@ -108,119 +97,119 @@
       "ProxyIP": "assine.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-  },
-{
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 00🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "controle.grupospeedomega.site",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-   {
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 01🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "apf.maisvantagenstim.com.br",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-   {
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 02🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.26.5.32",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-   {
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 03🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "GET / HTTP/1.1[crlf]Host: top.eliteneteruel.shop[crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.17.70.206",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-   {
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 04🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-   {
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 05🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.17.70.206",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-   {
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 06🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "Payload: ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-       {
-            "Name": "🔴🔴 𝙑𝙄𝙑𝙊 CONTROLE/EASY 07🔴🔴",
-            "FLAG": "vivo",
-            "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.6.80",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔴🔴 𝙑𝙄𝙑𝙊 CONTROLE/EASY 08🔴🔴",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "legado.vivo.com.br",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
+    },
     {
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 09🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "blog.deezer.com",
-"ProxyPort": "80",
-"Info": "Proxy"
-},  
-{
-"Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 10🔴🔴",
-"FLAG": "vivo.png",
-"Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.26.5.32",
-"ProxyPort": "80",
-"Info": "Proxy"
-},  
-{
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [1]",
+      "Name": "Vivo Controle - Acesso Rápido 01",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "controle.grupospeedomega.site",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Acesso Rápido 02",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "apf.maisvantagenstim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Acesso Rápido 03",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.5.32",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Acesso Rápido 04",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: top.eliteneteruel.shop[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.70.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Acesso Rápido 05",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:[apphost][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "141.193.213.10#141.193.213.11#104.18.18.210#104.18.19.210#104.18.22.136#104.18.23.136#104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#104.26.4.32#104.26.5.32",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Acesso Rápido 06",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.70.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Acesso Rápido 07",
+      "FLAG": "vivo.png",
+      "Payload": "Payload: ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle/Easy - Conexão Otimizada 07",
+      "FLAG": "vivo.png",
+      "Payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle/Easy - Conexão Otimizada 08",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "legado.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Conexão Estável 09",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "blog.deezer.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Conexão Estável 10",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.5.32",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Controle - Conexão Estável 01",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -230,7 +219,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [2]",
+      "Name": "Vivo Controle - Conexão Estável 02",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -240,7 +229,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [3]",
+      "Name": "Vivo Controle - Conexão Estável 03",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -250,7 +239,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [4]",
+      "Name": "Vivo Controle - Conexão Estável 04",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -260,7 +249,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [5]",
+      "Name": "Vivo Controle - Conexão Estável 05",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -270,7 +259,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [6]",
+      "Name": "Vivo Controle - Conexão Estável 06",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -280,7 +269,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [7]",
+      "Name": "Vivo Controle - Conexão Estável 07",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -290,7 +279,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [8]",
+      "Name": "Vivo Controle - Conexão Estável 08",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -300,7 +289,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [9]",
+      "Name": "Vivo Controle - Conexão Estável 09",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -310,7 +299,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [10]",
+      "Name": "Vivo Controle - Conexão Estável 10",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -320,7 +309,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [11]",
+      "Name": "Vivo Controle - Conexão Estável 11",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -330,7 +319,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [12]",
+      "Name": "Vivo Controle - Conexão Estável 12",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -338,9 +327,9 @@
       "ProxyIP": "104.26.4.32",
       "ProxyPort": "80",
       "Info": "Proxy"
- },
- {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [13]",
+    },
+    {
+      "Name": "Vivo Controle - Conexão Estável 13",
       "FLAG": "vivo.png",
       "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
@@ -348,58 +337,86 @@
       "ProxyIP": "104.26.5.32",
       "ProxyPort": "80",
       "Info": "Proxy"
-     },
-     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO 01",
+    },
+    {
+      "Name": "Vivo Pré-Pago - Acesso Flexível 01",
       "FLAG": "vivo.png",
       "Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.27.160",
       "ProxyPort": "80",
-      "Info": "Proxy"    
+      "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO EXPIRADO 02",
+      "Name": "Vivo Pré-Pago - Acesso Flexível 02 (Expirado)",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.135.63",
       "ProxyPort": "80",
-      "Info": "Proxy"    
+      "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO EXPIRADO E ATIVO 03",
+      "Name": "Vivo Pré-Pago - Acesso Flexível 03 (Ativo/Expirado)",
       "FLAG": "vivo.png",
       "Payload": "ACL / [split]HTTP/1.1 [lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.26.12.205",
       "ProxyPort": "80",
-      "Info": "Proxy"    
+      "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO EXPIRADO E ATIVO 04",
+      "Name": "Vivo Pré-Pago - Acesso Flexível 04 (Ativo/Expirado)",
       "FLAG": "vivo.png",
       "Payload": "ACL / [split]HTTP/1.1 [lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.67.74.152",
       "ProxyPort": "80",
-      "Info": "Proxy"    
+      "Info": "Proxy"
     },
     {
-      "Name": "╰┈[☞>📱 🔵 TIM ",
-      "FLAG": "vivo.png",
+      "Name": "TIM - Conexão Otimizada",
+      "FLAG": "tim.png",
       "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: android.softwar.shop[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.4.18",
       "ProxyPort": "80",
-      "Info": "Proxy"  
-    
-  
-        }
-    ]
+      "Info": "Proxy"
+    },
+    {
+      "Name": "Vivo Ultra Speed - Teste 01",
+      "FLAG": "vivo.png",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "1.1.1.1",
+      "ProxyPort": "80",
+      "Info": "Proxy de Teste"
+    },
+    {
+      "Name": "Vivo Max Performance - Teste 02",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "8.8.8.8",
+      "ProxyPort": "80",
+      "Info": "Proxy de Teste"
+    },
+    {
+      "Name": "Vivo Global Access - Teste 03",
+      "FLAG": "vivo.png",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.6.32",
+      "ProxyPort": "80",
+      "Info": "Proxy de Teste"
+    }
+  ]
 }
