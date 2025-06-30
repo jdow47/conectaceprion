@@ -647,8 +647,6 @@
     "ProxyIP": "185.199.229.156",
     "ProxyPort": "80",
     "Info": "Proxy Ativo"
-}
-
     }
   ]
 }
