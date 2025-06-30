@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.16.",
+  "Version": "0.0.17.",
   "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Versão: 2.5\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
@@ -37,7 +37,7 @@
             "Name": "CEPRION",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "android.softwar.shop",
+            "ServerIP":"android.softwar.shop",
             "CheckUser": "http://179.127.16.133:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
@@ -82,7 +82,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY GB [1]",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "api.vivo.com.br",
@@ -188,7 +188,7 @@
 "Payload": "Payload: ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113",
+"ProxyIP": "api.vivo.com.br",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
