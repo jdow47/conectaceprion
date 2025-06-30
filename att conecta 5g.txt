@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.14.",
+  "Version": "0.0.15.",
   "ReleaseNotes": "♻️ Atualização Disponível, para uma melhor conexão mantenha-se sempre atualizado♻️\n •••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Versão: 2.5\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
@@ -26,7 +26,7 @@
             "Name": "SERVIDOR CEPRION",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "ceprion.ceprionios.shop",
+            "ServerIP": "android.softwar.shop",
             "CheckUser": "http://179.127.16.133:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
@@ -37,7 +37,7 @@
             "Name": "CEPRION",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "ceprion.ceprionios.shop",
+            "ServerIP": "android.softwar.shop",
             "CheckUser": "http://179.127.16.133:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
@@ -92,7 +92,7 @@
     {  
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY GB [1]",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.64.150.8",
@@ -102,7 +102,7 @@
 {
 "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 EASY GB [3]",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "assine.vivo.com.br",
@@ -172,7 +172,7 @@
    {
 "Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 06🔴🔴",
 "FLAG": "vivo.png",
-"Payload": "Payload: ACL / HTTP/1.1[lf]Host: ceprion.ceprionios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+"Payload": "Payload: ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113",
@@ -202,7 +202,7 @@
     {
 "Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 09🔴🔴",
 "FLAG": "vivo.png",
-"Payload": "ACL / HTTP/1.1[lf]Host: ceprion.ceprionios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+"Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "blog.deezer.com",
@@ -212,7 +212,7 @@
 {
 "Name": "🔴🔴 𝙑𝙄𝙑𝙊 PLANO CONTROLE 10🔴🔴",
 "FLAG": "vivo.png",
-"Payload": "ACL / HTTP/1.1[lf]Host: ceprion.ceprionios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+"Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.26.5.32",
@@ -222,7 +222,7 @@
 {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [1]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.10",
@@ -232,7 +232,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [2]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.11",
@@ -242,7 +242,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [3]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.18.210",
@@ -252,7 +252,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [4]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.19.210",
@@ -262,7 +262,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [5]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.22.136",
@@ -272,7 +272,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [6]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.23.136",
@@ -282,7 +282,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [7]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.70.206",
@@ -292,7 +292,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [8]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.71.206",
@@ -302,7 +302,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [9]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.72.206",
@@ -312,7 +312,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [10]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.73.206",
@@ -322,7 +322,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [11]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.17.74.206",
@@ -332,7 +332,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [12]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.26.4.32",
@@ -342,7 +342,7 @@
  {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 CONTROLE [13]",
       "FLAG": "vivo.png",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: android.softwar.shop[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.26.5.32",
@@ -352,7 +352,7 @@
      {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO 01",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[lf]Host: ceprion.ceprionios.shop[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "ACL / HTTP/1.1[lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.27.160",
@@ -362,7 +362,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO EXPIRADO 02",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ceprion.ceprionios.shop[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.135.63",
@@ -372,7 +372,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO EXPIRADO E ATIVO 03",
       "FLAG": "vivo.png",
-      "Payload": "ACL / [split]HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "ACL / [split]HTTP/1.1 [lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.26.12.205",
@@ -382,7 +382,7 @@
     {
       "Name": "╰┈[☞>📱 🟣 𝙑𝙄𝙑𝙊 PRÉ PAGO EXPIRADO E ATIVO 04",
       "FLAG": "vivo.png",
-      "Payload": "ACL / [split]HTTP/1.1 [lf]Host: ceprion.ceprionios.shop[lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "ACL / [split]HTTP/1.1 [lf]Host: android.softwar.shop[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.67.74.152",
@@ -392,7 +392,7 @@
     {
       "Name": "╰┈[☞>📱 🔵 TIM ",
       "FLAG": "vivo.png",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: ceprion.ceprionios.shop[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: android.softwar.shop[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.4.18",
