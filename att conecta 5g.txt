@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.40",
+  "Version": "0.0.41",
   "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
@@ -17,8 +17,9 @@
       "Name": "Servidor Principal Conecta",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "android.softwar.shop",
-      "CheckUser": "http://135.148.98.243:5454/checkUser",
+      "ServerIP": "android.voidplay.com
+br",
+      "CheckUser": "http://atlas.voidplay.com.br/checkuser/conecta4g.php,
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -28,7 +29,7 @@
       "Name": "Conecta Premium",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "android.softwar.shop",
+      "ServerIP": "android.voidplay.com.br",
       "CheckUser": "http://atlas.voidplay.com.br/checkuser/conecta4g.php",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -71,7 +72,7 @@
     {
       "Name": "Vivo Easy - Conexão Otimizada 01",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.voidplay.com.br[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "api.vivo.com.br",
@@ -91,7 +92,7 @@
     {
       "Name": "Vivo Easy - Conexão Otimizada 03",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: android.softwar.shop[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: android.voidplay.com.br[crlf]Upgrade: Websocket[crlf][split][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "141.193.213.10",
