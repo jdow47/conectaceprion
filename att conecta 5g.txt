@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.43",
+  "Version": "0.0.44",
   "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
@@ -75,7 +75,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "bo.pgd.to",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -85,7 +85,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.24.10.16#104.24.11.16#104.24.24.34#104.24.25.34",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
