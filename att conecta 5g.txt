@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.44",
+  "Version": "0.0.45",
   "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
@@ -71,11 +71,11 @@
     {
       "Name": "Vivo Easy Controle 1Conexão Otimizada 01",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: ACL / [split]HTTP/1.1 [lf]Host: [android.ssh1.online][lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: ACL / [split]HTTP/1.1 [lf]Host: [host][lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "bo.pgd.to",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
