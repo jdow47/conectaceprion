@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.45",
+  "Version": "0.0.46",
   "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
@@ -2657,7 +2657,7 @@
   "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
   "SNI": "",
   "TlsIP": "",
-  "ProxyIP": "104.18.4.18",
+  "ProxyIP": "bo.pgd.to",
   "ProxyPort": "80",
   "Info": "Proxy"
 },
@@ -2667,7 +2667,7 @@
   "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf]Upgrade: websocket[crlf][crlf]",
   "SNI": "",
   "TlsIP": "",
-  "ProxyIP": "104.16.239.166",
+  "ProxyIP": "104.24.10.16#104.24.11.16#104.24.24.34#104.24.25.34",
   "ProxyPort": "80",
   "Info": "Proxy"
 },
@@ -2677,7 +2677,7 @@
   "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf]Upgrade: websocket[crlf][crlf]",
   "SNI": "",
   "TlsIP": "",
-  "ProxyIP": "104.18.4.18",
+  "ProxyIP": "bo.pgd.to",
   "ProxyPort": "80",
   "Info": "Proxy"
 },
@@ -2687,7 +2687,7 @@
   "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
   "SNI": "",
   "TlsIP": "",
-  "ProxyIP": "162.159.135.63",
+  "ProxyIP": "104.24.10.16#104.24.11.16#104.24.24.34#104.24.25.34",
   "ProxyPort": "80",
   "Info": "Proxy"
 },
@@ -2697,7 +2697,7 @@
     "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "186.228.44.149",
+    "ProxyIP": "bo.pgd.to",
     "ProxyPort": "80",
     "Info": "Proxy"
   },
@@ -2707,7 +2707,7 @@
     "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "179.251.80.158",
+    "ProxyIP": "104.24.10.16#104.24.11.16#104.24.24.34#104.24.25.34",
     "ProxyPort": "5678",
     "Info": "Proxy"
   },
@@ -2717,7 +2717,7 @@
     "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "177.23.176.58",
+    "ProxyIP": "bo.pgd.to",
     "ProxyPort": "8080",
     "Info": "Proxy"
   },
@@ -2727,7 +2727,7 @@
     "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "179.228.241.22",
+    "ProxyIP": "104.24.10.16#104.24.11.16#104.24.24.34#104.24.25.34",
     "ProxyPort": "8080",
     "Info": "Proxy"
   },
@@ -2737,7 +2737,7 @@
     "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "200.255.88.23",
+    "ProxyIP": "bo.pgd.to",
     "ProxyPort": "80",
     "Info": "Proxy"
   },
@@ -2747,7 +2747,7 @@
     "Payload": "GET / HTTP/1.1[crlf]Host: android.ssh1.online[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "185.199.229.156",
+    "ProxyIP": "bo.pgd.to",
     "ProxyPort": "80",
     "Info": "Proxy"
 },
@@ -2757,7 +2757,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "172.64.150.8",
+      "ProxyIP": "bo.pgd.to",
       "ProxyPort": "80",
       "Info": "Proxy"
 },
@@ -2767,7 +2767,7 @@
       "Payload": "ACL / HTTP/1.1[lf]Host: android.ssh1.online[lf]Upgrade: Websocket[lf][split][lf]"
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.239.166",
+      "ProxyIP": "bo.pgd.to",
       "ProxyPort": "80",
       "Info": "Proxy"
 },
@@ -2777,7 +2777,7 @@
       "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: android.ssh1.online[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "legado.vivo.com.br",
+      "ProxyIP": "bo.pgd.to",
       "ProxyPort": "80",
       "Info": "Proxy"
     }
