@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.42",
+  "Version": "0.0.43",
   "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
@@ -69,22 +69,22 @@
       "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
     },
     {
-      "Name": "Vivo Easy - Conexão Otimizada 01",
+      "Name": "Vivo Easy Controle 1Conexão Otimizada 01",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: android.ssh1.online[crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "ACL / HTTP/1.1[crlf]Host: ACL / [split]HTTP/1.1 [lf]Host: [android.ssh1.online][lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "api.vivo.com.br",
+      "ProxyIP": "bo.pgd.to",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "Vivo Easy - Conexão Otimizada 02",
+      "Name": "Vivo Easy Controle 2- Conexão Otimizada 02",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: Websocket[crlf][split][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]#OPTIONS / HTTP/1.1[crlf]Host: [android.ssh1.online][crlf]Upgrade: websocket[crlf][crlf]#PUT / HTTP/1.1[crlf]Host: [android.ssh1.online][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "172.64.150.8",
+      "ProxyIP": "104.24.10.16#104.24.11.16#104.24.24.34#104.24.25.34",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
