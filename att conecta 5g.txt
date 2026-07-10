@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.46",
+  "Version": "0.0.47",
   "ReleaseNotes": "♻️ Atualização Disponível para uma melhor conexão. Mantenha-se sempre atualizado!♻️\n•••••••••••••••••••••••••••••••••••••••••••••\n  🆚 Versão: 2.5\n•••••••••••••••••••••••••••••••••••••••••••••\n  Status da Rede:\n  • Oi: Indisponível\n  • TIM: Online\n  • Vivo: Online\n  • Claro: Indisponível\n•••••••••••••••••••••••••••••••••••••••••••••••\n  DICA: Tenha sempre em mãos 2 Chips para ter uma operadora extra, caso a outra pare de funcionar.\n  Servidor Principal Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/jdow47/conectaceprion/refs/heads/main/att%20conecta%205g.txt",
   "Sms": "https://bitbin.it/ukTsID96/raw/",
@@ -2754,30 +2754,30 @@
     {
       "Name": "Vivo Controle teste",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [apphost][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1 [crlf]Host:[android.ssh1.online][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "bo.pgd.to",
+      "ProxyIP": "mlp.moovit.com",
       "ProxyPort": "80",
       "Info": "Proxy"
 },
     {
       "Name": "Vivo Controle teste",
       "FLAG": "vivo.png",
-      "Payload": "ACL / HTTP/1.1[lf]Host: android.ssh1.online[lf]Upgrade: Websocket[lf][split][lf]"
+      "Payload": "GET / HTTP/1.1 [crlf]Host:[host][crlf]Upgrade: websocket[crlf][crlf]"
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "bo.pgd.to",
-      "ProxyPort": "80",
+      "ProxyIP": "mlp.moovit.com",
+      "ProxyPort": "8080",
       "Info": "Proxy"
 },
     {
       "Name": "Vivo Controle - teste",
       "FLAG": "vivo.png",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: android.ssh1.online[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: GET / HTTP/1.1 [crlf]Host:[host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "bo.pgd.to",
+      "ProxyIP": "mlp.moovit.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     }
